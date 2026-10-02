@@ -1,0 +1,122 @@
+[
+  {
+    "source": "diffusiondb",
+    "id": 226,
+    "url": "https://huggingface.co/datasets/poloclub/diffusiondb/resolve/b8d0f99b3a58f59185e5d8a827c753d5ca5de340/2m_first_1k/train-00000-of-00002.parquet",
+    "dataset_revision": "b8d0f99b3a58f59185e5d8a827c753d5ca5de340",
+    "original_sha256": "7c67790049866d2873a884b03b9e68c2d18b493d06d7d558e1612741752406b9",
+    "pixel_sha256": "f28c0a6e92cb0f943eb5a937b524dce9175fc9a548fb7283e35a3115684b6426",
+    "size": [
+      512,
+      315
+    ]
+  },
+  {
+    "source": "diffusiondb",
+    "id": 756,
+    "url": "https://huggingface.co/datasets/poloclub/diffusiondb/resolve/b8d0f99b3a58f59185e5d8a827c753d5ca5de340/2m_first_1k/train-00001-of-00002.parquet",
+    "dataset_revision": "b8d0f99b3a58f59185e5d8a827c753d5ca5de340",
+    "original_sha256": "c6afc634aa8df49a5cb631d4c5a859d5b445b65315767694df7d84a6c23553e9",
+    "pixel_sha256": "2791510472eae0487f62fb2dad4cade77dd233944c0e92af46ef31cd75f3bffd",
+    "size": [
+      410,
+      512
+    ]
+  },
+  {
+    "source": "diffusiondb",
+    "id": 466,
+    "url": "https://huggingface.co/datasets/poloclub/diffusiondb/resolve/b8d0f99b3a58f59185e5d8a827c753d5ca5de340/2m_first_1k/train-00000-of-00002.parquet",
+    "dataset_revision": "b8d0f99b3a58f59185e5d8a827c753d5ca5de340",
+    "original_sha256": "88b49ef04107b7eada1a025d27bf63c403e4bb92465ace29cf997fbdfdcd510b",
+    "pixel_sha256": "9dc55753a97aa01de40a30504a239c48aeb4515695f1c9a395b791b54a7f835f",
+    "size": [
+      288,
+      512
+    ]
+  },
+  {
+    "source": "diffusiondb",
+    "id": 216,
+    "url": "https://huggingface.co/datasets/poloclub/diffusiondb/resolve/b8d0f99b3a58f59185e5d8a827c753d5ca5de340/2m_first_1k/train-00000-of-00002.parquet",
+    "dataset_revision": "b8d0f99b3a58f59185e5d8a827c753d5ca5de340",
+    "original_sha256": "66780d421f12a6a9bfc5cb21585fe8db232d8ed4b65a6ecdf2fa42e8bf3ad77b",
+    "pixel_sha256": "cfdca2ce136f250fe9758ebadd99dab112276475e5c8f5daae40500b148c1a01",
+    "size": [
+      512,
+      372
+    ]
+  },
+  {
+    "source": "diffusiondb",
+    "id": 250,
+    "url": "https://huggingface.co/datasets/poloclub/diffusiondb/resolve/b8d0f99b3a58f59185e5d8a827c753d5ca5de340/2m_first_1k/train-00000-of-00002.parquet",
+    "dataset_revision": "b8d0f99b3a58f59185e5d8a827c753d5ca5de340",
+    "original_sha256": "cbddd5d1f1c192a2a8ceb83fd827dc2bcf4177829615528e2e1d3153d88deb2c",
+    "pixel_sha256": "449ea9e298d410759f91e315ceb4aff452942cb18427ed5c2333f5136d17393e",
+    "size": [
+      410,
+      512
+    ]
+  },
+  {
+    "source": "div2k",
+    "id": 881,
+    "url": "https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip",
+    "member": "DIV2K_valid_HR/0881.png",
+    "original_sha256": "d2fba016ee3cee2395b677524d7ae2b2f6750cea1a6df4edc41f2977bd5d1b7c",
+    "pixel_sha256": "bcbe8bd7206d8d9f7f13ffddf3b47dad20d9f09802c404c7b10c9007150fc542",
+    "size": [
+      512,
+      316
+    ]
+  },
+  {
+    "source": "div2k",
+    "id": 865,
+    "url": "https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip",
+    "member": "DIV2K_valid_HR/0865.png",
+    "original_sha256": "46ced1e049fce5a0381c3dc7d7276d058f78a7a7dab5cd88ef7a224cbf51fdb1",
+    "pixel_sha256": "12af9d292931427bceb3bc7f7478b2e1d35421782e85051f86d14e28407ebc83",
+    "size": [
+      512,
+      386
+    ]
+  },
+  {
+    "source": "div2k",
+    "id": 877,
+    "url": "https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip",
+    "member": "DIV2K_valid_HR/0877.png",
+    "original_sha256": "4e0fb583729accf7b93e07b2b81ce8d919f6490cee2d1f90db90b60095a59165",
+    "pixel_sha256": "37fd157531558413f95c214965ba52025962b28ca50aaed1ca1fc95ba3a3c377",
+    "size": [
+      512,
+      289
+    ]
+  },
+  {
+    "source": "div2k",
+    "id": 805,
+    "url": "https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip",
+    "member": "DIV2K_valid_HR/0805.png",
+    "original_sha256": "e28d56feee10c2e2663f347dda574fff736894dba37341d37b91bac2ecd863b2",
+    "pixel_sha256": "7c16143dfa23f7a53a0b285f8f5d83a6502356f9327faccd093bfd94a0faaea1",
+    "size": [
+      512,
+      386
+    ]
+  },
+  {
+    "source": "div2k",
+    "id": 830,
+    "url": "https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip",
+    "member": "DIV2K_valid_HR/0830.png",
+    "original_sha256": "4eb18566ab01447a06daf0314a3711aa78cea5ca0eaa47cfedafbceeb6dd0a3e",
+    "pixel_sha256": "d38a4c56ca7d13073d2d77115204d9be332a7cf0c8efef4a2b9264e5cf83432b",
+    "size": [
+      512,
+      205
+    ]
+  }
+]

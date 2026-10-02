@@ -1,0 +1,12 @@
+cache/
+images/
+run/
+__pycache__/
+*.png
+*.jpg
+*.parquet
+*.zip
+*.ckpt
+*.pt
+*.safetensors
+.venv/

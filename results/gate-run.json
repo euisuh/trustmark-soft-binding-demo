@@ -1,0 +1,8 @@
+{
+  "OMP_NUM_THREADS": "2",
+  "capacity": 61,
+  "device": "cpu",
+  "elapsed_seconds": 18.75317883491516,
+  "n": 10,
+  "torch_threads": 2
+}

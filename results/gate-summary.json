@@ -1,0 +1,78 @@
+{
+  "scope": "DAY-0 ONLY, not held-out pilot",
+  "verdict": "REVISE",
+  "gate_passed": false,
+  "real_consumer_tested": "c2patool 0.27.22",
+  "other_real_consumers": "NOT TESTED; universal absence of resolution UNVERIFIED",
+  "strata": {
+    "diffusiondb": {
+      "exact_A_after_A": {
+        "n": 5,
+        "mean": 1,
+        "ci95": [
+          1,
+          1
+        ]
+      },
+      "exact_B_after_A_then_B": {
+        "n": 5,
+        "mean": 1,
+        "ci95": [
+          1,
+          1
+        ]
+      },
+      "paired_recovery_gap_B_minus_A_DIAGNOSTIC_ONLY": {
+        "n": 5,
+        "mean": 0,
+        "ci95": [
+          0,
+          0
+        ]
+      },
+      "spurious_ECC_valid_on_clean": 0,
+      "registered_ID_on_clean": 0,
+      "A_retained_after_B": 0,
+      "neither_registered_payload_after_B": 0,
+      "real_image_only_active_manifests": 0,
+      "SIMULATED_sole_B_candidates_after_B": 5,
+      "exact_one_sided_zero_failure_bound_if_zero_failures": 0.4507197283469412
+    },
+    "div2k": {
+      "exact_A_after_A": {
+        "n": 5,
+        "mean": 1,
+        "ci95": [
+          1,
+          1
+        ]
+      },
+      "exact_B_after_A_then_B": {
+        "n": 5,
+        "mean": 1,
+        "ci95": [
+          1,
+          1
+        ]
+      },
+      "paired_recovery_gap_B_minus_A_DIAGNOSTIC_ONLY": {
+        "n": 5,
+        "mean": 0,
+        "ci95": [
+          0,
+          0
+        ]
+      },
+      "spurious_ECC_valid_on_clean": 1,
+      "registered_ID_on_clean": 0,
+      "A_retained_after_B": 0,
+      "neither_registered_payload_after_B": 0,
+      "real_image_only_active_manifests": 0,
+      "SIMULATED_sole_B_candidates_after_B": 5,
+      "exact_one_sided_zero_failure_bound_if_zero_failures": 0.4507197283469412
+    }
+  },
+  "full_pilot": "NOT RUN: frozen failed-consumer gate stop",
+  "primary_attack_success": "NOT MEASURED",
+  "custom_lookup": "SIMULATED exact-ID dictionary lookup in the original pilot; not reproduced by these scripts"
+}

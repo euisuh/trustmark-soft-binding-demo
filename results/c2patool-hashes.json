@@ -1,0 +1,7 @@
+{
+  "version": "0.27.22",
+  "archive_sha256": "d064ca72e599c74e5fdc2ed04b47d6cb62210a2b14db589d078c2ec27c98d3df",
+  "release_digest": "sha256:d064ca72e599c74e5fdc2ed04b47d6cb62210a2b14db589d078c2ec27c98d3df",
+  "binary_sha256": "0338680141f6e0cfcbfa3e36a6d6a4198fee86e33866c3bf4b783cde25ff26ef",
+  "download_url": "https://github.com/contentauth/c2pa-rs/releases/download/c2patool-v0.27.22/c2patool-v0.27.22-universal-apple-darwin.zip"
+}
