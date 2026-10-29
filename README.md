@@ -110,3 +110,8 @@ fresh run OK: 5 images, exact A after A, exact B after A then B
 ## Licence
 
 MIT (`LICENSE`). TrustMark, DiffusionDB, DIV2K and c2patool keep their own licences.
+
+## CI
+
+GitHub Actions runs a syntax/undefined-name lint and `verify.py` / `summarize.py` on the recorded `results/gate-results.json`. It does not install torch or TrustMark, download weights or images, or rerun the demo.
+
